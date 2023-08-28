@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @shubham-pawar9
-- 👀 I’m interested in front end Web development
-- 🌱 I’m currently learning react js.
+Elevator 2 Lift Demo Template
 
-<!---
-shubham-pawar9/shubham-pawar9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+The "Elevator 2 Lift Demo Template" is an interactive web application that simulates the operation of two elevator lifts in a multi-story building.
+Created using HTML, CSS, and JavaScript, this project showcases a responsive user interface with two distinct keypads for selecting floors. 
+The elevator doors respond interactively to floor changes, complete with open and close animations. 
+To enhance realism, the project incorporates sound effects to mimic the operation of the elevators, including running sounds and door open/close sounds.
