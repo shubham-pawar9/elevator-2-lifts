@@ -1,4 +1,4 @@
-Elevator 2 Lift Demo Template
+# Elevator 2 Lift Demo Template
 
 The "Elevator 2 Lift Demo Template" is an interactive web application that simulates the operation of two elevator lifts in a multi-story building.
 Created using HTML, CSS, and JavaScript, this project showcases a responsive user interface with two distinct keypads for selecting floors. 
